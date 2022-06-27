@@ -1,0 +1,38 @@
+html{
+    width: 100%;
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+body{
+    height: 100%;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background: rgb(1,0,19);
+    background: linear-gradient(38deg, rgba(1,0,19,1) 0%, rgba(45,19,104,1) 54%, rgba(191,28,45,1) 100%);
+}
+.title{
+    color: white;
+    font-family: 'Alfa Slab One', cursive;
+    letter-spacing: 3.5px;
+    font-size: 75px;
+}
+
+.subTitle{
+    color: rgb(187, 187, 187);
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.emailHelp{
+    color: rgb(187, 187, 187);
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 15px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.submit{
+    width: 25%;
+}
